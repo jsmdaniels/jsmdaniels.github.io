@@ -4,14 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi There! My name is John Daniels. I am currently a postdoctoral research associate at the Centre for Bio-Inspired Technology, Imperial College London. My research is currently focused on machine learning for healthcare in the areas of chronic disease (such as diabetes) and infectious disease (such as dengue) management. For a deeper look into my research, see [publications] here (https://scholar.google.com/citations?hl=en&user=TGzM-T8AAAAJ).
 
 ### More Information
+Currently interested in the following areas: uncertainty quantification, model compression, generative models, and causal inference.
 
-A place to include any other types of information that you'd like to include about yourself.
+### [Contact me](mailto:johnsm.daniels@gmail.com)
 
-### Contact me
 
-[johnsm.daniels@gmail.com](mailto:johnsm.daniels@gmail.com)
 
-[here](https://scholar.google.com/citations?hl=en&user=TGzM-T8AAAAJ)
