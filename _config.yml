@@ -6,7 +6,7 @@
 name: John Daniels
 
 # Short bio or description (displayed in the header)
-description: Diabetes management and machine learning researcher
+description: Machine Learning Research in Health
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/jsmdaniels/jsmdaniels.github.io/master/images/Profile_VandA.jpg
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/jsmdaniels/jsmdaniels.github.io/master
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: johnsm.daniels@gmail.com
   facebook:
   flickr:
   github: jsmdaniels
