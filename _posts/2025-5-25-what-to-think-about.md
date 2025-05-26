@@ -7,5 +7,7 @@ Diabetes is a chronic metabolic disease characterised by insufficient or complet
 
 {% include audio_player.html file="deep_dive_sensors.mp3" caption="A brief overview of this paper is provided below in this Deep Dive podcast generated through NotebookLM." %}
 
+
 References
+
 [^1]: World Health Organization. [Global report on diabetes.](https://www.who.int/publications/i/item/9789241565257) World Health Organization, 2016.
