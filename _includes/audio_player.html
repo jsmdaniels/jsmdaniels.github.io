@@ -1,0 +1,15 @@
+{% comment %}
+Expects:
+- include.file (e.g., "my-explainer.mp3")
+- include.caption (optional)
+{% endcomment %}
+
+<div>
+  {% if include.caption %}
+    <p>{{ include.caption }}</p>
+  {% endif %}
+  <audio controls style="width: 100%;">
+    <source src="{{ '/audio/' | append: include.file | relative_url }}" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
