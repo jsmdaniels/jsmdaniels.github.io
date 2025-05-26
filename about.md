@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hi There! My name is John Daniels. My research is focused on machine learning for healthcare in the areas of chronic disease (such as diabetes) and infectious disease (such as dengue) management. For a deeper look into my research, see [publications](https://scholar.google.com/citations?hl=en&user=TGzM-T8AAAAJ).
+Hi there! My name is John Daniels. My research expereince has been focused on machine learning for healthcare in the areas of chronic disease and infectious disease management. I believe in the transformative potential of machine learning in augmenting healthcare systems from a primarily reactive-based approach towards more proactive-based and preventive-based approaches that maintain the individual at the centre of the healthcare process.
 
 ### More Information
-The blog will mainly feature details on the some of the work I am involved in, and interaction of this technology with wider society. I'm currently interested in the following areas: uncertainty quantification, multitask learning, multimodal learning, generative models, and model compression.  
+The blog will mainly feature details on the some of the work I am involved in, and my evolving thoughts on the interaction of this technology with wider society. I'm currently interested in the following areas: uncertainty quantification, generative modelling, conformal prediction, multimodal learning, and multitask learning.  For a deeper look into my research, see [my publications here](https://scholar.google.com/citations?hl=en&user=TGzM-T8AAAAJ).
 
 ### Contact me 
-[johnsm.daniels@gmail.com](mailto:johnsm.daniels@gmail.com)
+johnsm [dot] daniels [at] gmail [dot] com
 
 
 
